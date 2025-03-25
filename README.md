@@ -59,5 +59,5 @@ jupyter notebook Llama.ipynb
 - Deploy the trained model as an API for real-world usage.
 
 ## Output
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Llama Text Summarization Screenshot](https://github.com/Muradhameed921/LLaMA-for-Text-Summarization/blob/main/Llama.png)
 
